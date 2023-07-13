@@ -142,3 +142,4 @@ google-cloud-vision==3.4.2
 google-cloud-secret-manager==2.16.2
 google-cloud-tasks==2.13.2
 google-cloud-storage==2.10.0
+cohere==4.13.0
